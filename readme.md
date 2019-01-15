@@ -1,4 +1,4 @@
-# Micromouse 
+# Glasgow Uni Micromouse Team
 ![The logo](./logo_edited.png)
 
 This is the page for source of the Glasgow Uni Micromouse Team 2018 project.
